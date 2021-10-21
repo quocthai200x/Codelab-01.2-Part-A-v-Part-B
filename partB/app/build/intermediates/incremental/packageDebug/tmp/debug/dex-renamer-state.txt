@@ -1,0 +1,4 @@
+#Thu Oct 21 23:41:46 ICT 2021
+base.0=F\:\\BK\\year4.1\\DevMobile\\Codelab01.2\\partB\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
